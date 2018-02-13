@@ -29,4 +29,12 @@ html, body {
 	margin-right: 5vw;
 	height: 10vw;
 	text-align: center;
+
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.label {
+	margin-left: 5vw;
 }
